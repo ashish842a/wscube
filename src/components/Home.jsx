@@ -22,10 +22,6 @@ const Home = () => {
 </div>
 
 
-
-
-
-
         {/* first section */}
         <section>
   <div className="flex flex-col md:flex-row justify-between items-center mt-2 bg-[#f9f9f9]">
